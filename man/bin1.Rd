@@ -19,9 +19,7 @@ used the interval.
 \item{nbin}{
 (input integer):  number of bins desired. Default 50.
 }
-\item{opt}{
-(input OPTIONAL logical):  to suppress output messages, set \code{opt=TRUE}
-}}
+}
 \value{
 \code{bin1} returns a list including the vector of integer bin counts and
 the ab vector and the number of points outside the ab interval.
