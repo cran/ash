@@ -1,36 +1,29 @@
-2001-12-30  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+2002-07-02  Albrecht Gebhardt  <alge@psi.home.algepop.net>
 
-	* /usr/local/cvsroot/ash/DESCRIPTION, /usr/local/cvsroot/ash/man/ash2.Rd:
-	R 1.4.0 changes
+	* INDEX: updates
+
+	* man/ash2.Rd, DESCRIPTION: last T -> TRUE fixes
 
 2001-08-09  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /usr/local/cvsroot/ash/INDEX, /usr/local/cvsroot/ash/man/ash-internal.Rd, /usr/local/cvsroot/ash/man/ash1.Rd, /usr/local/cvsroot/ash/man/bin1.Rd, /usr/local/cvsroot/ash/man/bin2.Rd:
+	* man/ash-internal.Rd, man/ash1.Rd, man/bin1.Rd, man/bin2.Rd:
 	cvsroot recovery.
 
 2001-01-10  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /usr/local/cvsroot/ash/R/ash.R:
-	PACKAGE option added to .Fortran calls.
+	* R/ash.R: PACKAGE option added to .Fortran calls.
 
 2000-12-30  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /usr/local/cvsroot/ash/src/Makefile: new release for 1.2.0
+	* src/Makefile: new release for 1.2.0
 
 2000-06-03  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /usr/local/cvsroot/ash/R/zzz.R: .First.lib added
-
-1999-04-05  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
-
-	* /usr/local/cvsroot/ash/src-c/sort.c, /usr/local/cvsroot/ash/src-c/ash.c, /usr/local/cvsroot/ash/src-c/Makefile:
-	src-c removed, description corrected
+	* R/zzz.R: .First.lib added
 
 1998-12-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /usr/local/cvsroot/ash/README, /usr/local/cvsroot/ash/TITLE, /usr/local/cvsroot/ash/src/ash.f, /usr/local/cvsroot/ash/src/sort.f:
-	Imported sources
+	* README, TITLE, src/ash.f, src/sort.f: Imported sources
 
-	* /usr/local/cvsroot/ash/README, /usr/local/cvsroot/ash/TITLE, /usr/local/cvsroot/ash/src/ash.f, /usr/local/cvsroot/ash/src/sort.f:
-	New file.
+	* README, TITLE, src/ash.f, src/sort.f: New file.
 
