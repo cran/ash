@@ -1,21 +1,19 @@
+2001-06-17  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* /usr/local/cvsroot/ash/DESCRIPTION, /usr/local/cvsroot/ash/INDEX:
+	ready for 1.3
+
+	* /usr/local/cvsroot/ash/man/ash-internal.Rd, /usr/local/cvsroot/ash/man/ash1.Rd, /usr/local/cvsroot/ash/man/ash2.Rd, /usr/local/cvsroot/ash/man/bin1.Rd, /usr/local/cvsroot/ash/man/bin2.Rd:
+	keywords changed
+
 2001-01-10  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /usr/local/cvsroot/ash/R/ash.R, /usr/local/cvsroot/ash/DESCRIPTION:
+	* /usr/local/cvsroot/ash/R/ash.R:
 	PACKAGE option added to .Fortran calls.
-
-2001-01-08  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
-
-	* /usr/local/cvsroot/ash/man/ash-internal.Rd:
-	changes for upcoming R 1.2.1
 
 2000-12-30  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
 	* /usr/local/cvsroot/ash/src/Makefile: new release for 1.2.0
-
-2000-06-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
-
-	* /usr/local/cvsroot/ash/man/bin2.Rd, /usr/local/cvsroot/ash/man/bin1.Rd, /usr/local/cvsroot/ash/man/ash2.Rd, /usr/local/cvsroot/ash/man/ash1.Rd, /usr/local/cvsroot/ash/INDEX:
-	modifications for successful "R CMD build"
 
 2000-06-03  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 

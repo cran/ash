@@ -38,5 +38,5 @@ x <- rnorm(100)         # data
 f <- ash1(bin1(x,nbin=50),5) # compute ash estimate
 plot( f , type="l" )    # line plot of estimate
 }
-\keyword{density}
+\keyword{nonparametric}
 % Converted by Sd2Rd version 0.2-a3.

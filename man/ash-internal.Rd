@@ -9,4 +9,4 @@
   These functions are not intended to be called by the user.
  
 }
-\keyword{ash}
+\keyword{nonparametric}

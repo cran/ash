@@ -31,5 +31,5 @@ ab <- matrix( c(-5,-5,5,5), 2, 2)       # interval [-5,5) x [-5,5)
 nbin <- c( 20, 20)                      # 400 bins
 bins <- bin2(x, ab, nbin)               # bin counts,ab,nskip
 }
-\keyword{density}
+\keyword{nonparametric}
 % Converted by Sd2Rd version 0.2-a3.

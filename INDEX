@@ -1,3 +1,4 @@
+ash-internal             Internal ash functions
 ash1                     univariate ASH
 ash2                     bivariate ASH
 bin1                     univariate binning

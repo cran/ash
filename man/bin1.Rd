@@ -32,5 +32,5 @@ x <- rnorm(100)         # data vector
 ab <- c(-5,5)           # bin interval
 bins <- bin1(x,ab,10)     # bin x into 10 bins over ab
 }
-\keyword{density}
+\keyword{nonparametric}
 % Converted by Sd2Rd version 0.2-a3.

@@ -33,5 +33,5 @@ f <- ash2(bins,m)
 image(f$x,f$y,f$z)
 contour(f$x,f$y,f$z,add=T)
 }
-\keyword{density}
+\keyword{nonparametric}
 % Converted by Sd2Rd version 0.2-a3.
