@@ -14,7 +14,9 @@ ash2(bins, m, kopt)
 \item{m}{
 (input integer vector of length 2) x and y direction smoothing
 parameters. Default is 5 by 5. 
-}}
+}
+\item{kopt}{see \code{\link{ash1}}}
+}
 \value{
 Matrix of ASH estimates returned.
 Components x,y,z can be given to the contour function directly.
