@@ -1,4 +1,4 @@
-ash1		1D ash (density plot)
-bin1		forms bin counts
-bin2		2D bin counts used by
-ash2		2D ash
+ash1                     univariate ASH
+ash2                     bivariate ASH
+bin1                     univariate binning
+bin2                     2D binning

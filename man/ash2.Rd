@@ -1,5 +1,7 @@
 \name{ash2}
-\title{
+\alias{ash2}
+\title{bivariate ASH}
+\description{
 Compute bivariate ASH estimate (product polynomial kernel)
 }
 \usage{

@@ -1,16 +1,22 @@
-Tue Apr 20 21:32:23 1999  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+2000-06-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* man/ash2.Rd: example(ash2) works now.
+	* /usr/local/cvsroot/ash/man/bin2.Rd, /usr/local/cvsroot/ash/man/bin1.Rd, /usr/local/cvsroot/ash/man/ash2.Rd, /usr/local/cvsroot/ash/man/ash1.Rd, /usr/local/cvsroot/ash/INDEX, /usr/local/cvsroot/ash/DESCRIPTION:
+	modifications for successful "R CMD build"
 
-Mon Apr  5 17:14:45 1999  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+2000-06-03  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* DESCRIPTION: some corrections to DESCRIPTION
+	* /usr/local/cvsroot/ash/R/zzz.R: .First.lib added
 
-Fri Dec  4 06:48:17 1998  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+1999-04-05  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* INDEX, R/ash.R, R/zzz.R, README, TITLE, man/ash1.Rd, man/bin1.Rd, man/bin2.Rd, src/Makefile, src/ash.f, src/sort.f:
+	* /usr/local/cvsroot/ash/src-c/sort.c, /usr/local/cvsroot/ash/src-c/ash.c, /usr/local/cvsroot/ash/src-c/Makefile:
+	src-c removed, description corrected
+
+1998-12-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* /usr/local/cvsroot/ash/R/ash.R, /usr/local/cvsroot/ash/README, /usr/local/cvsroot/ash/TITLE, /usr/local/cvsroot/ash/src/Makefile, /usr/local/cvsroot/ash/src/ash.f, /usr/local/cvsroot/ash/src/sort.f:
 	Imported sources
 
-	* INDEX, R/ash.R, R/zzz.R, README, TITLE, man/ash1.Rd, man/bin1.Rd, man/bin2.Rd, src/Makefile, src/ash.f, src/sort.f:
-	Initial revision
+	* /usr/local/cvsroot/ash/R/ash.R, /usr/local/cvsroot/ash/README, /usr/local/cvsroot/ash/TITLE, /usr/local/cvsroot/ash/src/Makefile, /usr/local/cvsroot/ash/src/ash.f, /usr/local/cvsroot/ash/src/sort.f:
+	New file.
 

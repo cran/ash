@@ -1,5 +1,7 @@
 \name{bin1}
-\title{
+\alias{bin1}
+\title{univariate binning}
+\description{
 Function to compute array of bin counts for a data vector
 }
 \usage{

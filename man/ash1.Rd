@@ -1,5 +1,7 @@
 \name{ash1}
-\title{
+\alias{ash1}
+\title{univariate ASH}
+\description{
 Computes univariate averaged shifted histogram (polynomial kernel)
 }
 \usage{

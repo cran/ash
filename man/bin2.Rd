@@ -1,5 +1,7 @@
 \name{bin2}
-\title{
+\alias{bin2}
+\title{2D binning}
+\description{
 Bin bivariate data x
 }
 \usage{
