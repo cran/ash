@@ -1,0 +1,16 @@
+Tue Apr 20 21:32:23 1999  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* man/ash2.Rd: example(ash2) works now.
+
+Mon Apr  5 17:14:45 1999  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* DESCRIPTION: some corrections to DESCRIPTION
+
+Fri Dec  4 06:48:17 1998  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* INDEX, R/ash.R, R/zzz.R, README, TITLE, man/ash1.Rd, man/bin1.Rd, man/bin2.Rd, src/Makefile, src/ash.f, src/sort.f:
+	Imported sources
+
+	* INDEX, R/ash.R, R/zzz.R, README, TITLE, man/ash1.Rd, man/bin1.Rd, man/bin2.Rd, src/Makefile, src/ash.f, src/sort.f:
+	Initial revision
+
