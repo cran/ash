@@ -1,6 +1,20 @@
+2001-01-10  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* /usr/local/cvsroot/ash/R/ash.R, /usr/local/cvsroot/ash/DESCRIPTION:
+	PACKAGE option added to .Fortran calls.
+
+2001-01-08  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* /usr/local/cvsroot/ash/man/ash-internal.Rd:
+	changes for upcoming R 1.2.1
+
+2000-12-30  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* /usr/local/cvsroot/ash/src/Makefile: new release for 1.2.0
+
 2000-06-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /usr/local/cvsroot/ash/man/bin2.Rd, /usr/local/cvsroot/ash/man/bin1.Rd, /usr/local/cvsroot/ash/man/ash2.Rd, /usr/local/cvsroot/ash/man/ash1.Rd, /usr/local/cvsroot/ash/INDEX, /usr/local/cvsroot/ash/DESCRIPTION:
+	* /usr/local/cvsroot/ash/man/bin2.Rd, /usr/local/cvsroot/ash/man/bin1.Rd, /usr/local/cvsroot/ash/man/ash2.Rd, /usr/local/cvsroot/ash/man/ash1.Rd, /usr/local/cvsroot/ash/INDEX:
 	modifications for successful "R CMD build"
 
 2000-06-03  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
@@ -14,9 +28,9 @@
 
 1998-12-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /usr/local/cvsroot/ash/R/ash.R, /usr/local/cvsroot/ash/README, /usr/local/cvsroot/ash/TITLE, /usr/local/cvsroot/ash/src/Makefile, /usr/local/cvsroot/ash/src/ash.f, /usr/local/cvsroot/ash/src/sort.f:
+	* /usr/local/cvsroot/ash/README, /usr/local/cvsroot/ash/TITLE, /usr/local/cvsroot/ash/src/ash.f, /usr/local/cvsroot/ash/src/sort.f:
 	Imported sources
 
-	* /usr/local/cvsroot/ash/R/ash.R, /usr/local/cvsroot/ash/README, /usr/local/cvsroot/ash/TITLE, /usr/local/cvsroot/ash/src/Makefile, /usr/local/cvsroot/ash/src/ash.f, /usr/local/cvsroot/ash/src/sort.f:
+	* /usr/local/cvsroot/ash/README, /usr/local/cvsroot/ash/TITLE, /usr/local/cvsroot/ash/src/ash.f, /usr/local/cvsroot/ash/src/sort.f:
 	New file.
 

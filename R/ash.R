@@ -10,7 +10,8 @@ bin1 <- function(x,ab=nicerange(x),nbin=50) {
            as.double(ab),
            as.integer(nbin),
            nc=integer(nbin),
-           nskip=integer(1))
+           nskip=integer(1),
+           PACKAGE="ash")
   list(nc=r$nc,ab=ab,nskip=r$nskip)
 }
 
@@ -23,11 +24,12 @@ ash1 <- function(bins,m=5,kopt=c(2,2)){
                 as.integer(nc),
                 as.integer(nbin),
                 as.double(ab),
-  as.integer(kopt),
+                as.integer(kopt),
                 t=double(nbin),
                 f=double(nbin),
                 double(m),
-  ier=integer(1))
+                ier=integer(1),
+                PACKAGE="ash")
   if(r$ier==1) print("ash estimate nonzero outside interval ab")
   list(x=r$t,y=r$f,m=m,ab=ab,kopt=kopt,ier=r$ier)
 }
@@ -50,7 +52,8 @@ bin2 <- function(x,ab,nbin=c(20,20)){
            as.integer(nbin[1]),
            as.integer(nbin[2]),
            nc=integer(nbin[1]*nbin[2]),
-           nskip=integer(1))
+           nskip=integer(1),
+           PACKAGE="ash")
   list(nc=matrix(r$nc,nbin[1],nbin[2]),ab=ab,nskip=r$nskip)
 }
 
@@ -65,10 +68,11 @@ ash2 <- function(bins,m=c(5,5),kopt=c(2,2)){
                 as.integer(nbin[1]),
                 as.integer(nbin[2]),
                 as.double(ab),
-  as.integer(kopt),
+                as.integer(kopt),
                 f=double(nbin[1]*nbin[2]),
                 double(m[1]*m[2]),
-		ier=double(1))
+		        ier=double(1),
+                PACKAGE="ash")
   if(r$ier==1) print(" estimate nonzero outside ab rectangle")
   list(z=matrix(r$f,nbin[1],nbin[2]),
  x=center(ab[1,],nbin[1])[[1]],y=center(ab[2,],nbin[2])[[1]],
