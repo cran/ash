@@ -1,9 +1,9 @@
 bin1 <- function(x,ab=nicerange(x),nbin=50) {
   n <- length(x)
   if(ab[1]>=ab[2])
-    fatal("Interval vector has negative orientation")
+    stop("Interval vector has negative orientation")
   if(nbin<=0)
-    fatal("Number of bin intervals nonpositive")
+    stop("Number of bin intervals nonpositive")
   r<-.Fortran("bin1",
            as.double(x),
            as.integer(n),

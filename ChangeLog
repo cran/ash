@@ -1,40 +1,23 @@
+2008-02-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* DESCRIPTION, R/ash.R, R/zzz.R, man/ash2.Rd:
+	include Stephen Kaluznys recent S-PLUS changes.
+
 2004-05-25  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /home/cvsroot/math/stat/R/ash/DESCRIPTION, /home/cvsroot/math/stat/R/ash/INDEX, /home/cvsroot/math/stat/R/ash/man/bin1.Rd:
-	small fixes for R 1.9
-
-2002-07-02  Debian User  <alge@console1-math>
-
-	* /home/cvsroot/math/stat/R/ash/man/ash2.Rd: last T -> TRUE fixes
+	* INDEX, man/bin1.Rd: small fixes for R 1.9
 
 2001-08-09  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /home/cvsroot/math/stat/R/ash/man/ash-internal.Rd, /home/cvsroot/math/stat/R/ash/man/ash1.Rd, /home/cvsroot/math/stat/R/ash/man/bin2.Rd:
-	cvsroot recovery.
-
-2001-01-10  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
-
-	* /home/cvsroot/math/stat/R/ash/R/ash.R:
-	PACKAGE option added to .Fortran calls.
+	* man/ash-internal.Rd, man/ash1.Rd, man/bin2.Rd: cvsroot recovery.
 
 2000-12-30  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /home/cvsroot/math/stat/R/ash/src/Makefile: new release for 1.2.0
-
-2000-06-03  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
-
-	* /home/cvsroot/math/stat/R/ash/R/zzz.R: .First.lib added
-
-1999-04-05  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
-
-	* /home/cvsroot/math/stat/R/ash/src-c/sort.c, /home/cvsroot/math/stat/R/ash/src-c/ash.c, /home/cvsroot/math/stat/R/ash/src-c/Makefile:
-	src-c removed, description corrected
+	* src/Makefile: new release for 1.2.0
 
 1998-12-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* /home/cvsroot/math/stat/R/ash/README, /home/cvsroot/math/stat/R/ash/TITLE, /home/cvsroot/math/stat/R/ash/src/ash.f, /home/cvsroot/math/stat/R/ash/src/sort.f:
-	Imported sources
+	* README, TITLE, src/ash.f, src/sort.f: Imported sources
 
-	* /home/cvsroot/math/stat/R/ash/README, /home/cvsroot/math/stat/R/ash/TITLE, /home/cvsroot/math/stat/R/ash/src/ash.f, /home/cvsroot/math/stat/R/ash/src/sort.f:
-	New file.
+	* README, TITLE, src/ash.f, src/sort.f: New file.
 
