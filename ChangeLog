@@ -1,11 +1,15 @@
+2009-09-21  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* DESCRIPTION, R/zzz.R: use getRversion() instead of version$...
+
 2009-06-11  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* DESCRIPTION, R/ash.R, src/ash.f:
+	* R/ash.R, src/ash.f:
 	Clarify licensing: Thanks to David Scott for providing his work under GPL
 
 2008-02-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* R/zzz.R, man/ash2.Rd: include Stephen Kaluznys recent S-PLUS changes.
+	* man/ash2.Rd: include Stephen Kaluznys recent S-PLUS changes.
 
 2004-05-25  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
