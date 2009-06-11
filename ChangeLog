@@ -1,7 +1,11 @@
+2009-06-11  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
+
+	* DESCRIPTION, R/ash.R, src/ash.f:
+	Clarify licensing: Thanks to David Scott for providing his work under GPL
+
 2008-02-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* DESCRIPTION, R/ash.R, R/zzz.R, man/ash2.Rd:
-	include Stephen Kaluznys recent S-PLUS changes.
+	* R/zzz.R, man/ash2.Rd: include Stephen Kaluznys recent S-PLUS changes.
 
 2004-05-25  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
@@ -17,7 +21,7 @@
 
 1998-12-04  Albrecht Gebhardt  <albrecht.gebhardt@uni-klu.ac.at>
 
-	* README, TITLE, src/ash.f, src/sort.f: Imported sources
+	* README, TITLE, src/sort.f: Imported sources
 
-	* README, TITLE, src/ash.f, src/sort.f: New file.
+	* README, TITLE, src/sort.f: New file.
 
