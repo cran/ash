@@ -25,6 +25,7 @@ Other input variables returned in list for record keeping.
 \seealso{\code{\link{bin2}}}
 \examples{
 \testonly{
+# re-enable the next 3lines if used for S-PLUS:
 #if(!is.R()) {
 #  library(pkgutils)  # to get the example() function
 #}
