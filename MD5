@@ -1,0 +1,14 @@
+47779f79d4f1355bd08464c9c764ec43 *ChangeLog
+5fdaad70ce2445b1c6cfbea73ecc1b35 *DESCRIPTION
+573f155f68091f70d9f81c71659d8a8f *INDEX
+60f2e233bee475f76e17679a2ede8847 *NAMESPACE
+2417414a9296171b45ba66d13816614b *R/ash.R
+3d657e9cc0cf97654e24fcf0c7a4e28d *R/zzz.R
+f36f171f8dfb9c16b0faaee6d8cc522d *README
+835b7967eae2f28f9d6c94aaf86cd5d5 *man/ash-internal.Rd
+0fe68b03eae6d55955a91da5910a1c1a *man/ash1.Rd
+c54337294d04cdec60fc7d7dacbfdd92 *man/ash2.Rd
+96431bdc60ddf557a9bbc74de15aa958 *man/bin1.Rd
+ae27e3dac6859bf2413c263298d8ff5a *man/bin2.Rd
+cc271dfaec75712d199eafca5b94fec5 *src/ash.f
+c62604eeeda2c36a2d497e78b29bed55 *src/sort.f

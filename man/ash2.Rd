@@ -25,9 +25,9 @@ Other input variables returned in list for record keeping.
 \seealso{\code{\link{bin2}}}
 \examples{
 \testonly{
-if(!is.R()) {
-  library(pkgutils)  # to get the example() function
-}
+#if(!is.R()) {
+#  library(pkgutils)  # to get the example() function
+#}
 # prepare variables from other example pages if they are not already there:
 if(length(ls(pat="bins"))==0){example(bin2)}
 }
